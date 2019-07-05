@@ -1,0 +1,342 @@
+02/05/2019                                                   Banco Itaú S/A
+
+Nome:       MAESTRO LOC DE VEICULOS SA
+
+Agência: 8541   Conta: 40835-0
+
+Saldo resumido                                                                           02/05/2019 às 09:13:18h
+
+Descrição                                                                                              Saldo (R$)
+
+TOTAL PARA SAQUE                                                                                       696.052,46
+
+Extrato     de  01/04/2019 até 30/04/2019
+
+Data            Lançamento                                                   Ag./Origem  Valor (R$)    Saldo (R$)
+
+29/03           SALDO ANTERIOR                                                                         420.558,19
+
+01/04           FT 0568.57539-3TRUSTEE                                       6717        420.558,19 -
+
+01/04           MOV TIT COB DISP 01/04S                                                  61.441,67
+
+01/04       C   MOV TIT COBRANCA 01/04S                                                  1.750,00
+
+01/04           SALDO FINAL DISP CREDOR                                                  61.441,67
+
+01/04           SALDO                                                                                  63.191,67
+
+02/04           FT 0568.57539-3TRUSTEE                                       6717        63.191,67 -
+
+02/04           SISPAG KOVI TECNOLOGIA                                       192         384.300,00
+
+02/04           TED 237.3380TITAN PNEUS                                                  5.889,00
+
+02/04           MOV TIT COB DISP 02/04S                                                  35.057,04
+
+02/04       C   MOV TIT COBRANCA 02/04S                                                  12.658,00
+
+02/04           SALDO FINAL DISP CREDOR                                                  425.246,04
+
+02/04           SALDO                                                                                  437.904,04
+
+03/04           FT 0568.57539-3TRUSTEE                                       6717        437.904,04 -
+
+03/04           SISPAG AUTOFAST VEIC LT                                      8884        88.500,00
+
+03/04           TED 033.0455SILVIA LOPES                                                 30.000,00
+
+03/04           MOV TIT COB DISP 03/04S                                                  28.819,75
+
+03/04       C   MOV TIT COBRANCA 03/04S                                                  17.867,00
+
+03/04           SALDO FINAL DISP CREDOR                                                  147.319,75
+
+03/04           SALDO                                                                                  165.186,75
+
+04/04           FT 0568.57539-3TRUSTEE                                       6717        165.182,52 -
+
+04/04           MOV TIT COB DISP 04/04S                                                  4,23 -
+
+04/04       C   MOV TIT COBRANCA 04/04S                                                  114.498,05
+
+04/04           SALDO FINAL DISP CREDOR                                                  0,00
+
+04/04           SALDO                                                                                  114.498,05
+
+05/04           FT 0568.57539-3TRUSTEE                                       6717        114.498,05 -
+
+05/04           TAR COBRANCA MENSAL                                                      393,59 -
+
+https://internet.itau.com.br/V1/EMP/IMG/VersaoImpressao.htm                                            1/5
+02/05/2019                                                   Banco Itaú S/A
+
+05/04          TBI 0158.97449-3 C/C                                          4175  2.000,00
+
+05/04          MOV TIT COB DISP 05/04S                                             84.121,55
+
+05/04       C  MOV TIT COBRANCA 05/04S                                             50.781,13
+
+05/04          SALDO FINAL DISP CREDOR                                             85.727,96
+
+05/04          SALDO                                                                             136.509,09
+
+08/04          FT 0568.57539-3TRUSTEE                                        6717  136.509,09 -
+
+08/04          TED 237.0055FRANCISCO J                                             11.500,00
+
+08/04          MOV TIT COB DISP 08/04S                                             60.365,34
+
+08/04       C  MOV TIT COBRANCA 08/04S                                             27.884,63
+
+08/04          SALDO FINAL DISP CREDOR                                             71.865,34
+
+08/04          SALDO                                                                             99.749,97
+
+09/04          FT 0568.57539-3TRUSTEE                                        6717  99.749,97 -
+
+09/04          AG. TEF 6272.01309-2                                          235   32.500,00
+
+09/04          TBI 3146.20698-6 C/C                                          4175  9.000,00
+
+09/04          MOV TIT COB DISP 09/04S                                             2.742,76
+
+09/04       C  MOV TIT COBRANCA 09/04S                                             23.097,04
+
+09/04          SALDO FINAL DISP CREDOR                                             44.242,76
+
+09/04          SALDO                                                                             67.339,80
+
+10/04          FT 0568.57539-3TRUSTEE                                        6717  67.339,80 -
+
+10/04          SISPAG GILBARCO R SOLUC                                       3150  3.798,66
+
+10/04          TED 033.2271DROGARIAS FA                                            20.300,00
+
+10/04          TED 237.3930C M SIL COM                                             29.500,00
+
+10/04          TED 237.3930M CEBALHO BA                                            29.500,00
+
+10/04          MOV TIT COB DISP 10/04S                                             8.148,81
+
+10/04       C  MOV TIT COBRANCA 10/04S                                             2.242,45
+
+10/04          SALDO FINAL DISP CREDOR                                             91.247,47
+
+10/04          SALDO                                                                             93.489,92
+
+11/04          FT 0568.57539-3TRUSTEE                                        6717  93.489,92 -
+
+11/04          SISPAG BCI M VEIC LTDA                                        263   2.725,92
+
+11/04          TBI 0158.97449-3C 3                                           4175  12.000,00
+
+11/04          TED 033.4425R GIANELLI A                                            15.500,00
+
+11/04          MOV TIT COB DISP 11/04S                                             23.477,15
+
+11/04       C  MOV TIT COBRANCA 11/04S                                             186.388,75
+
+11/04          SALDO FINAL DISP CREDOR                                             53.703,07
+
+11/04          SALDO                                                                             240.091,82
+
+12/04          FT 0568.57539-3TRUSTEE                                        6717  240.091,82 -
+
+https://internet.itau.com.br/V1/EMP/IMG/VersaoImpressao.htm                                      2/5
+02/05/2019                                                   Banco Itaú S/A
+
+12/04          SISPAG BRASBENS R C B L                                       3150  5.000,00
+
+12/04          TED 104.0047FOCO ALUGUEL                                            3.994,86
+
+12/04          MOV TIT COB DISP 12/04S                                             5.413,00
+
+12/04       C  MOV TIT COBRANCA 12/04S                                             2.500,00
+
+12/04          SALDO FINAL DISP CREDOR                                             14.407,86
+
+12/04          SALDO                                                                            16.907,86
+
+15/04          FT 0568.57539-3TRUSTEE                                        6717  16.907,86 -
+
+15/04          SALDO FINAL DISP CREDOR                                             0,00
+
+15/04          SALDO                                                                            0,00
+
+16/04          MOV TIT COB DISP 16/04S                                             5.760,08
+
+16/04       C  MOV TIT COBRANCA 16/04S                                             65.659,36
+
+16/04          SALDO FINAL DISP CREDOR                                             5.760,08
+
+16/04          SALDO                                                                            71.419,44
+
+17/04          FT 0568.57539-3TRUSTEE                                        6717  71.419,44 -
+
+17/04          AG. TEF 1546.05470-9                                          9647  333,00
+
+17/04          TBI 2962.30711-8 C/C                                          4175  33.500,00
+
+17/04          TED 237.1195NHA BEN IND                                             1.200,00
+
+17/04          MOV TIT COB DISP 17/04S                                             3.454,04
+
+17/04       C  MOV TIT COBRANCA 17/04S                                             41.041,99
+
+17/04          SALDO FINAL DISP CREDOR                                             38.487,04
+
+17/04          SALDO                                                                            79.529,03
+
+18/04          FT 0568.57539-3TRUSTEE                                        6717  79.529,03 -
+
+18/04          MOV TIT COB DISP 18/04S                                             111,29
+
+18/04          SALDO FINAL DISP CREDOR                                             111,29
+
+18/04          SALDO                                                                            111,29
+
+22/04          FT 0568.57539-3TRUSTEE                                        6717  111,29 -
+
+22/04       C  MOV TIT COBRANCA 22/04S                                             22.711,38
+
+22/04          SALDO FINAL DISP CREDOR                                             0,00
+
+22/04          SALDO                                                                            22.711,38
+
+23/04          FT 0568.57539-3TRUSTEE                                        6717  22.711,38 -
+
+23/04       C  CXE 000001 DEP CHQ                                            139   29.500,00
+
+23/04          MOV TIT COB DISP 23/04S                                             1.880,61
+
+23/04       C  MOV TIT COBRANCA 23/04S                                             4.351,86
+
+23/04          SALDO FINAL DISP CREDOR                                             1.880,61
+
+23/04          SALDO                                                                            35.732,47
+
+24/04          DEV CH DEP 033 000055 11                                      5939  29.500,00 -
+
+https://internet.itau.com.br/V1/EMP/IMG/VersaoImpressao.htm                                     3/5
+02/05/2019                                                   Banco Itaú S/A
+
+24/04          FT 0568.57539-3TRUSTEE                                        6717  1.223,38 -
+
+24/04          BLOQUEIO JUDICIAL                                                   5.009,09 -
+
+24/04          SISPAG MINAS R V SERV L                                       637   34.000,00
+
+24/04          SALDO FINAL DISP CREDOR                                             34.000,00
+
+24/04          SALDO                                                                             34.000,00
+
+25/04          FT 0568.57539-3TRUSTEE                                        6717  34.000,00 -
+
+25/04          SISPAG J7 MULTIMARCAS L                                       5575  29.500,00
+
+25/04          SALDO FINAL DISP CREDOR                                             29.500,00
+
+25/04          SALDO                                                                             29.500,00
+
+26/04          FT 0568.57539-3TRUSTEE                                        6717  29.500,00 -
+
+26/04          SISPAG KOVI TECNOLOGIA                                        192   207.900,00
+
+26/04          TBI 0060.09171-7 C/C                                          4175  2.000,00
+
+26/04          DESBLOQUEIO JUDICIAL                                                5.009,09
+
+26/04          MOV TIT COB DISP 26/04S                                             7.026,46
+
+26/04       C  MOV TIT COBRANCA 26/04S                                             145.734,91
+
+26/04          SALDO FINAL DISP CREDOR                                             221.935,55
+
+26/04          SALDO                                                                             367.670,46
+
+29/04          FT 0568.57539-3TRUSTEE                                        6717  367.670,46 -
+
+29/04       C  MOV TIT COBRANCA 29/04S                                             68.855,15
+
+29/04          SALDO FINAL DISP CREDOR                                             0,00
+
+29/04          SALDO                                                                             68.855,15
+
+30/04          FT 0568.57539-3TRUSTEE                                        6717  68.855,15 -
+
+30/04          AG. TEF 3809.04447-6                                          5081  68.000,00
+
+30/04          AG. TEF 9144.21356-9                                          783   33.500,00
+
+30/04          AG. TEF 9144.21356-9                                          783   33.500,00
+
+30/04          AG. TEF 9144.21356-9                                          783   33.500,00
+
+30/04          AG. TEF 9144.21356-9                                          783   33.500,00
+
+30/04          AG. TEF 9144.21356-9                                          783   33.500,00
+
+30/04          AG. TEF 9144.21356-9                                          783   33.500,00
+
+30/04          AG. TEF 9144.21356-9                                          783   50.000,00
+
+30/04          AG. TEF 9144.21356-9                                          783   50.000,00
+
+30/04          AG. TEF 9144.21356-9                                          783   50.000,00
+
+30/04          AG. TEF 9144.21356-9                                          783   45.300,00
+
+30/04          TED 748.0230PAULO C BERT                                            54.000,00
+
+30/04          MOV TIT COB DISP 30/04S                                             45.500,00
+
+30/04       C  MOV TIT COBRANCA 30/04S                                             26.576,93
+
+https://internet.itau.com.br/V1/EMP/IMG/VersaoImpressao.htm                                      4/5
+02/05/2019                                                                 Banco Itaú S/A
+
+30/04           SALDO FINAL DISP CREDOR                                                    563.800,00
+
+30/04           SALDO                                                                                                     590.376,93
+
+30/04           SALDO FINAL DISP CREDOR                                                    590.376,93
+
+30/04           SALDO                                                                                                     590.376,93
+
+- Os saldos acima são baseados nas informações disponíveis até esse instante e poderão ser alterados a qualquer momento em função de
+
+novos lançamentos.
+
+Legenda:
+
+*  -        Lançamento sujeito à CPMF
+
+#  -        Lançamento sujeito à CPMF bonificada pelo Itaú
+
+A  -        Agendamento (sujeito a confirmação de saldo na data prevista)
+
+B  -        Ações movimentadas pela Bolsa de Valores
+
+C  -        Crédito a compensar
+
+D  -        Débito a compensar
+
+G  -        Aplicação programada (sujeita a confirmação de saldo na data prevista)
+
+I  -        Conta Investimento
+
+P  -        Poupança Automática
+
+Y  -        Para consultar o detalhamento desse débito, acesse Menu > Comprovantes
+
+Dúvidas, sugestões e reclamações, se necessário, utilize o SAC Itaú 0800 728 0728, todos os dias, 24h, ou o Fale Conosco
+
+(www.itau.com.br). Se desejar a reavaliação da solução apresentada após utilizar esses canais, recorra à Ouvidoria Corporativa Itaú 0800
+
+570 0011, dias úteis, das 9 às 18h, Caixa Postal nº 67.600, CEP 03162-971. Deficientes auditivos ou de fala 0800 722 1722, disponível 24hs
+
+todos os dias.
+
+https://internet.itau.com.br/V1/EMP/IMG/VersaoImpressao.htm                                                                                 5/5
+
