@@ -1,7 +1,11 @@
-const runExe = require('child_process').execFile
+function convertPDF(path){
+  var runExe = require('child_process').execFile
 
-  runExe('pdftotext', ['-table', "./extrato.pdf"], function(err, data) {
+  runExe('pdftotext', ['-table', path], function(err, data) {
     if (err) {
       console.log(err)
     } else console.log('foi')
   })
+}
+
+// convertPDF('./extrato.pdf')
