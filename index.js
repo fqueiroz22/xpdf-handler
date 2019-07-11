@@ -12,4 +12,4 @@ function convertPDF(path){
   // })
 }
 
-convertPDF('./extrato.pdf')
+// convertPDF('./extrato.pdf')
