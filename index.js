@@ -1,15 +1,25 @@
-function convertPDF(path){
-  var runExe = require('child_process').spawn
+class XPDFHandler{
 
-  runExe('pdftotext', ['-layout', path])
+  convertPDF(path){
+    var runExe = require('child_process').spawn
 
-  // var runExe = require('child_process').execFile
+    runExe('pdftotext', ['-layout', path])
 
-  // runExe('pdftotext', ['-layout', path], function(err, data) {
-  //   if (err) {
-  //     console.log(err)
-  //   } else console.log('foi')
-  // })
+    // var runExe = require('child_process').execFile
+
+    // runExe('pdftotext', ['-layout', path], function(err, data) {
+    //   if (err) {
+    //     console.log(err)
+    //   } else console.log('foi')
+    // })
+  }
+}
+
+module.exports = {
+  convertPDF: (path) => {
+    let treco = new XPDFHandler(path);
+    XPDFHandler.convertPDF(path);
+  }
 }
 
 // convertPDF('./extrato.pdf')
