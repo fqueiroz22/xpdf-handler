@@ -1,4 +1,4 @@
-function convertPDF(){
+function convertPDF(path){
   var runExe = require('child_process').spawn
 
   runExe('pdftotext', ['-layout', path])
