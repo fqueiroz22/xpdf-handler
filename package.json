@@ -1,5 +1,5 @@
 {
-  "name": "xpdf-handler",
+  "name": "xpdfhandler",
   "version": "1.0.0",
   "description": "",
   "arguments": "./extrato.pdf",
